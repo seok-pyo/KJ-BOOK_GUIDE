@@ -54,7 +54,7 @@ def pop():
 ```
 
 ```markdown
-![자료구조 다이어그램](./assets/style_guide/krafton-jungle.png)
+![자료구조 다이어그램](/assets/style_guide/krafton-jungle.png)
 ```
 
 ---
