@@ -61,7 +61,12 @@ def pop():
 ```
 
 ---
-<span style="font-weight: normal;" id="foot-1">1. 각주는 다음과 같이 작성한다.</span>
-<span style="font-weight: normal;" id="foot-2">2. 인라인 함수나 변수는 백틱으로 감싸서 강조한다.</span>
-<span style="font-weight: normal;" id="foot-3">3. 영상은 링크가 필요하고, 이미지는 프로젝트의 assets 폴더에 있어야 한다</span>
+
+#### 1. 각주는 다음과 같이 작성한다. {#foot-1}
+#### 2. 인라인 함수나 변수는 백틱으로 감싸서 강조한다.  {#foot-2}
+ 
+
+<div style="font-weight: normal;" id="foot-3">
+이건 볼드체처럼 보이지 않게 만들고 싶을 때 사용하는 방법입니다.
+</div>
 
