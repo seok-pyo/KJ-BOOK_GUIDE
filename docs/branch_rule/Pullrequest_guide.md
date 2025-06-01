@@ -31,6 +31,7 @@
 
 2. **팀 리더 리뷰 및 병합**
    - 소항목 PR을 검토 후 `대항목` 브랜치에 병합한다.
+   - [팀 리더가 `gitbook-cli`를 활용하여 로컬에서 배포(`gitbook serve`) 하여 검토한다.](/docs/git_book_guide/README.md#set_gitbook-cli)
    - 이후 `edit` 브랜치로 **PR 생성** (총괄 PM 대상)
 
 3. **PM Merge**
