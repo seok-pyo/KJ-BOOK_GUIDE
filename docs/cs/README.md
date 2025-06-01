@@ -30,14 +30,14 @@
 
 다음은 x86-64에서 주소 계산을 수행하는 일반적인 수식이다.
 
-$Imm(r_b, r_i, s) = r_b + r_i \times s$
+$$Imm(r_b, r_i, s) = r_b + r_i \times s$$
 
 각 구성 요소는 다음과 같다.
 
-- $Imm$: <span tooltip="Immediate value">즉시 값</span>
-- $r_b$: <span tooltip="Base register">기준 레지스터</span>
-- $r_i$: <span tooltip="Index register">인덱스 레지스터</span>
-- $s$: <span tooltip="Scale factor">배율 인자</span>
+- $$Imm$$: <span tooltip="Immediate value">즉시 값</span>
+- $$r_b$$: <span tooltip="Base register">기준 레지스터</span>
+- $$r_i$$: <span tooltip="Index register">인덱스 레지스터</span>
+- $$s$$: <span tooltip="Scale factor">배율 인자</span>
 > 아래첨자가 들어가는 수식들은 $를 이용해서 인라인 수식으로 표현한다. (GPT 한테 써달라고 하면 잘 써준다.)
 
 ## 3. 스택연산 과정
