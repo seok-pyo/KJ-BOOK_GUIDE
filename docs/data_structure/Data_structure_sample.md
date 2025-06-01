@@ -61,7 +61,7 @@ def pop():
 ```
 
 ---
-<h4 style="font-weight: normal;" id="foot-1">1. 각주는 다음과 같이 작성한다.</h4>
-<h4 style="font-weight: normal;" id="foot-2">2. 인라인 함수나 변수는 백틱으로 감싸서 강조한다.</h4>
-<h4 style="font-weight: normal;" id="foot-3">3. 영상은 링크가 필요하고, 이미지는 프로젝트의 assets 폴더에 있어야 한다</h4>
+<span style="font-weight: normal;" id="foot-1">1. 각주는 다음과 같이 작성한다.</span>
+<span style="font-weight: normal;" id="foot-2">2. 인라인 함수나 변수는 백틱으로 감싸서 강조한다.</span>
+<span style="font-weight: normal;" id="foot-3">3. 영상은 링크가 필요하고, 이미지는 프로젝트의 assets 폴더에 있어야 한다</span>
 
