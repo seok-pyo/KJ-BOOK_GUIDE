@@ -37,7 +37,7 @@
   결과: A → C → D → B
   ```
 
-## 구현 예시 (Python) {code}
+## 구현 예시 (Python) {#code}
 ```python
 # 알고리즘 구현 코드
 # 예: Kahn's Algorithm for Topological Sort
@@ -64,7 +64,7 @@ def topological_sort(V, adj):
     return result
 ```
 
-## 참고 {referance}
+## 참고 {#referance}
 
 - **참고한 자료**
   - [위키백과 - 위상 정렬](https://ko.wikipedia.org/wiki/%EC%9C%84%EC%83%81_%EC%A0%95%EB%A0%AC)
