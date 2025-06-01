@@ -13,3 +13,4 @@
 - [컴퓨터 시스템 예시 템플릿](docs/cs/README.md)
 - [자료구조 예시 템플릿](docs/data_structure/Data_structure_sample.md)
 - [알고리즘 예시 템플릿](docs/algorithm/README.md)
+- [각주test](docs/data_structure/foot.md)
