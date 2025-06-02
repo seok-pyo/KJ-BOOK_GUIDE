@@ -8,7 +8,7 @@
   - [서술 가이드](docs/edit_guide/write_style/README.md)
     - [문체 가이드](docs/edit_guide/write_style/writebookstyle.md)
     - [명명법](docs/edit_guide/write_style/naming_convention.md)
-  - [스타일 가이드](docs/edit_guide/style_guide/README.md)
+  - [마크다운 가이드](docs/edit_guide/style_guide/Markdown_using_guide.md)
 - [담당자 & 일정](docs/manager/README.md)
 - [컴퓨터 시스템 예시 템플릿](docs/cs/README.md)
 - [자료구조 예시 템플릿](docs/data_structure/Data_structure_sample.md)

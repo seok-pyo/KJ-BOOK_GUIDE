@@ -55,7 +55,7 @@ project-root/
 
 ---
 
-## 3. GitBook 설치 및 실행 (선택 사항)
+## 3. GitBook 설치 및 실행 (선택 사항) {#set_gitbook-cli}
 Gitbook은 `gitbook-cli` 라이브러리에서 빌드 및 배포할 수 있다.
 동작을 미리보기 위해서 `gitbook-cli` 를 설치 및 빌드하고자 하면 아래 과정을 따라하면 된다.
 
