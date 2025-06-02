@@ -60,4 +60,32 @@ def pop():
 ![자료구조 다이어그램](/assets/style_guide/krafton-jungle.png)
 ```
 
----
+![자료구조 다이어그램](/assets/style_guide/krafton-jungle.png)
+
+
+## 참고
+
+- **참고한 자료**
+  - [위키백과 - 자료구조](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)
+  - 『Introduction to Algorithm』, Thomas H. Cormen
+  - GeeksforGeeks의 [Data Structures Tutorial](https://www.geeksforgeeks.org/data-structures/)
+
+
+- **이미지 출처**
+  - 크래프톤 정글 이미지
+  - 외부 이미지 사용 시 라이선스 확인 필요
+
+
+- **추가로 참고하면 좋은 자료**
+  - [Visualgo](https://visualgo.net/ko)
+  - [프로그래머와 예비 개발자의 학습 및 놀이 동아리 - Software Engineering](http://soen.kr/)
+  - GitHub 검색: `Data Structure`
+
+- **주의사항**
+  - 외부 콘텐츠를 인용할 경우, 반드시 출처를 명시하고 링크를 제공할 것
+  - 이미지, 도표 등은 직접 제작하거나, 라이선스가 허용된 자료만 사용할 것
+
+  ---
+
+  #### 2. 인라인 함수나 변수는 백틱으로 감싸서 강조한다.  {#foot-2}
+  #### 3. 영상은 링크가 필요하고, 이미지는 프로젝트의 assets 폴더에 있어야 한다  {#foot-3}
