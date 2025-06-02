@@ -38,25 +38,6 @@
    - 모든 대항목 단위 PR을 리뷰 후 `edit` 브랜치에 병합한다.
    - 출판 전 최종적으로 `edit → master`로 병합 진행한다.
 
-```mermaid
-graph TD
-    subgraph Contributor
-    A1[소항목 브랜치 작업]
-    A2[PR → 대항목]
-    end
-
-    subgraph Section Leader
-    B1[리뷰 및 머지 → 대항목]
-    B2[PR → edit]
-    end
-
-    subgraph PM
-    C1[리뷰 및 머지 → edit]
-    C2[최종 릴리스 → master]
-    end
-
-    A1 --> A2 --> B1 --> B2 --> C1 --> C2
-```
 
 ---
 
