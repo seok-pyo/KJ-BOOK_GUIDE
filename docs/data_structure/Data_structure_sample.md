@@ -75,7 +75,6 @@ def pop():
 
 - **참고한 자료**
   - [위키백과 - 자료구조](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)
-  - 『Introduction to Algorithm』, Thomas H. Cormen
   - GeeksforGeeks의 [Data Structures Tutorial](https://www.geeksforgeeks.org/data-structures/)
 
 
