@@ -13,13 +13,13 @@
 | `master`                | 최종 배포본 (책 출판/릴리스 목적)                |
 | `edit`                  | PM이 관리하는 편집본. 대항목 단위의 머지 대상     |
 | `대항목`                | 각 팀 리더가 관리하는 상위 구조별 브랜치         |
-| `대항목/소항목_이름`    | 각 팀원이 작업하는 실질적인 작업 브랜치         |
+| `대항목_소항목_이름`    | 각 팀원이 작업하는 실질적인 작업 브랜치         |
 
 예시:  
 Jungle은 [각 파트를 맡은 자의 이름]
-- `Heap/Min_heap_Jungle`
-- `Binery_search/Binery_search_Jungle`
-- `Memory/Virtual_memory_Jungle`
+- `Heap_Min_heap_Jungle`
+- `Binery_search_Binery_search_Jungle`
+- `Memory_Virtual_memory_Jungle`
 
 ---
 
